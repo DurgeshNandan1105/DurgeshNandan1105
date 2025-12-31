@@ -37,7 +37,7 @@ I love learning something new every day and converting ideas into real working p
 <a href="https://www.hackerrank.com/_1rx24cs077" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
 </a>
-<a href="https://leetcode.com/u/durgesh1105/" target="_blank">
+<a href="https://leetcode.com/DurgeshNandan1105/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
 </p>
