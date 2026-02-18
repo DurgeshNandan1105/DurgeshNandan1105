@@ -32,7 +32,7 @@ I love learning something new every day and converting ideas into real working p
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 <a href="https://www.codechef.com/users/dugu_11" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/codechef.png" alt="codechef"/>
 </a>
 <a href="https://www.hackerrank.com/_1rx24cs077" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
@@ -57,10 +57,10 @@ I love learning something new every day and converting ideas into real working p
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> 
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
+<img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
 
 ---
 
