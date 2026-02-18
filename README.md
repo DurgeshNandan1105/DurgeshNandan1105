@@ -69,12 +69,4 @@ I love learning something new every day and converting ideas into real working p
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DurgeshNandan1105&layout=compact&theme=dark)
-
-![Durgesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DurgeshNandan1105&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DurgeshNandan1105&theme=dark&hide_border=false)
