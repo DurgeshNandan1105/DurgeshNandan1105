@@ -61,6 +61,9 @@ I love learning something new every day and converting ideas into real working p
 <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
+<img width="48" height="48" src="https://images.seeklogo.com/logo-png/44/2/seaborn-logo-png_seeklogo-441844.png" alt="Seaborn"/>
 
 ---
 
