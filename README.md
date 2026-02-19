@@ -17,14 +17,22 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 ---
 
 ## 👨‍💻 Professional Summary
-
+<p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
 
 - 💻 Full-Stack Developer specializing in MERN Stack (MongoDB, Express.js, React.js, Node.js)
+  
 - 🧠 Strong foundation in Data Structures and Algorithms
+  
 - 🤖 Exploring Machine Learning and Artificial Intelligence
+  
 - 🛠️ Experience building responsive and scalable web applications
+  
 - 🚀 Passionate about solving real-world problems through code
+  
+  <br clear="right"/>
 
 ---
 
