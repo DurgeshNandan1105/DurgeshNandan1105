@@ -59,6 +59,7 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
 <img width="48" height="48" src="https://images.seeklogo.com/logo-png/44/2/seaborn-logo-png_seeklogo-441844.png" alt="Seaborn"/>
+<img width="48" height="48" src="https://www.svgrepo.com/download/354240/pytorch.svg" alt="pytorch"/>
 </p>
 
 ---
