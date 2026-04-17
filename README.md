@@ -1,5 +1,3 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
 <h1 align="center">Hi 👋, I'm Durgesh Nandan</h1>
 
 <h3 align="center">
@@ -15,6 +13,7 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 </p>
 
 ---
+
 
 ## 👨‍💻 Professional Summary
 <p>
@@ -36,81 +35,139 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="center">💻 Languages</h3>
 
-### 💻 Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-### 🧰 Frameworks & Libraries
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-<img width="48" height="48" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
-<img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
-<img width="48" height="48" src="https://images.seeklogo.com/logo-png/44/2/seaborn-logo-png_seeklogo-441844.png" alt="Seaborn"/>
-<img width="48" height="48" src="https://www.svgrepo.com/download/354240/pytorch.svg" alt="pytorch"/>
+<h3 align="center">🧰 Frameworks & Libraries</h3>
+
+<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/nolan/64/express-js.png" width="40"/><br>Express
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color-glass/48/bootstrap.png" width="40"/><br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>Tailwind
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/pandas.png" width="40"/><br>Pandas
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/numpy.png" width="40"/><br>NumPy
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/matplotlib.png" width="40"/><br>Matplotlib
+</td>
+<td align="center" width="96">
+<img src="https://images.seeklogo.com/logo-png/44/2/seaborn-logo-png_seeklogo-441844.png" width="40"/><br>Seaborn
+</td>
+<td align="center" width="96">
+<img src="https://www.svgrepo.com/download/354240/pytorch.svg" width="40"/><br>PyTorch
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-### 🛢️ Databases
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<h3 align="center">🛢️ Databases</h3>
+
+<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-### ⚙️ Tools & Platforms
-<p align="left"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<h3 align="center">⚙️ Tools</h3>
+
+<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DurgeshNandan1105&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
-
+<h3 align="center">🔥 Contribution Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurgeshNandan1105&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<h3 align="center">🌐 Connect with Me</h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/durgeshnandan05/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.codechef.com/users/dugu_11" target="_blank">
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/codechef.png" alt="codechef"/>
-</a>
-<a href="https://www.hackerrank.com/_1rx24cs077" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-</a>
-<a href="https://leetcode.com/DurgeshNandan1105/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/durgeshnandan05/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Durgesh%20Nandan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://leetcode.com/DurgeshNandan1105/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Durgesh-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/dugu_11" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Durgesh-brown?style=for-the-badge&logo=codechef" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/_1rx24cs077" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Durgesh-green?style=for-the-badge&logo=hackerrank" />
+  </a>
 </p>
 
 ---
