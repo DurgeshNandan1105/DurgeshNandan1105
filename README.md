@@ -150,6 +150,23 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 
 ---
 
+<h3 align="center">🏆 GSSoC 2026 Badges</h3>
+
+<p align="center">
+  <img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png" width="110"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/discord_verified.png" width="110"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/profile_complete.png" width="110"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" width="110"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" width="110"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="110"/>
+</p>
+
+<p align="center">
+  <b>Contributor at GirlScript Summer of Code 2026 🚀</b>
+</p>
+
+---
+
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
