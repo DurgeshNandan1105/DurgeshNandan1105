@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Nandan</h1>
 
 <h3 align="center">
-Full-Stack Developer | MERN Stack | Data Structures & Algorithms | Machine Learning Enthusiast
+Full-Stack Developer | MERN Stack | Data Structures & Algorithms | AI Developer
 </h3>
 
 <p align="center">
