@@ -9,29 +9,24 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DurgeshNandan1105&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://api.visitorbadge.io/api/visitors?page_id=DurgeshNandan1105&label=Profile%20Views&labelColor=0e75b6&countColor=20232a&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-
 ## 👨‍💻 Professional Summary
+
 <p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-
 - 💻 Full-Stack Developer specializing in MERN Stack (MongoDB, Express.js, React.js, Node.js)
-  
 - 🧠 Strong foundation in Data Structures and Algorithms
-  
 - 🤖 Exploring Machine Learning and Artificial Intelligence
-  
 - 🛠️ Experience building responsive and scalable web applications
-  
 - 🚀 Passionate about solving real-world problems through code
-  
-  <br clear="right"/>
+
+<br clear="right"/>
 
 ---
 
@@ -150,7 +145,7 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 
 ---
 
-<h3 align="center">🏆 GSSoC 2026 Badges</h3>
+<h3 align="center">🏆 GSSoC Badges</h3>
 
 <p align="center">
   <img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png" width="110"/>
@@ -162,7 +157,7 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 </p>
 
 <p align="center">
-  <b>Contributor at GirlScript Summer of Code 2026 🚀</b>
+  <b>Contributor at GirlScript Summer of Code 🚀</b>
 </p>
 
 ---
@@ -173,15 +168,12 @@ Building scalable web applications and exploring AI/ML solutions 🚀
   <a href="https://www.linkedin.com/in/durgeshnandan05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Durgesh%20Nandan-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
   <a href="https://leetcode.com/DurgeshNandan1105/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Durgesh-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  
   <a href="https://www.codechef.com/users/dugu_11" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Durgesh-brown?style=for-the-badge&logo=codechef" />
   </a>
-  
   <a href="https://www.hackerrank.com/_1rx24cs077" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Durgesh-green?style=for-the-badge&logo=hackerrank" />
   </a>
@@ -191,5 +183,5 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 
 ## 📫 Contact
 
-📧 Email: durgeshnandan748@gmail.com  
-💬 Ask me about: MERN Stack
+- 📧 Email: durgeshnandan748@gmail.com  
+- 💬 Ask me about: MERN Stack & DSA
