@@ -9,7 +9,7 @@ Building scalable web applications and exploring AI/ML solutions 🚀
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?page_id=DurgeshNandan1105&label=Profile%20Views&labelColor=0e75b6&countColor=20232a&style=flat" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/DurgeshNandan1105.svg?style=flat&label=Profile%20Views&color=0e75b6&labelColor=20232a" alt="Profile Views" />
 </p>
 
 ---
