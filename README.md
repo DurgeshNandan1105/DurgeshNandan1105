@@ -8,10 +8,6 @@ Full-Stack Developer | MERN Stack | Data Structures & Algorithms | AI Developer
 Building scalable web applications and exploring AI/ML solutions 🚀
 </p>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/DurgeshNandan1105.svg?style=flat&label=Profile%20Views&color=0e75b6&labelColor=20232a" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 Professional Summary
